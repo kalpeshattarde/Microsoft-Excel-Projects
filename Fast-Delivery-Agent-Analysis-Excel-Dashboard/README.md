@@ -42,7 +42,8 @@ The real winners deliver **consistency, choice, and trust**.
 ---
 
 ### 📷 Dashboard Preview
-*(<img width="1578" height="867" alt="Fast Delivery Agent Market Analysis ITvedant Dashboard " src="https://github.com/user-attachments/assets/d805575e-5c5e-4557-9fda-d9f59ab16044" />)*  
+*(<img width="1577" height="865" alt="image" src="https://github.com/user-attachments/assets/569a419b-7843-4dac-9afc-e8bb03ecbb89" />
+)*  
 
 ---
 
