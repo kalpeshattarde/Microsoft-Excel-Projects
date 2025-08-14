@@ -22,3 +22,4 @@ I have created excel dashboard to explain-
 💬 The takeaway? In the race for delivery dominance, speed is just a part of the game — the real winners deliver consistency, choice, and trust.
 #BusinessStrategy #DataAnalysis
 
+<img width="1578" height="867" alt="Fast Delivery Agent Market Analysis ITvedant Dashboard " src="https://github.com/user-attachments/assets/d805575e-5c5e-4557-9fda-d9f59ab16044" />
