@@ -42,8 +42,8 @@ The real winners deliver **consistency, choice, and trust**.
 ---
 
 ### 📷 Dashboard Preview
-*(<img width="1577" height="865" alt="image" src="https://github.com/user-attachments/assets/569a419b-7843-4dac-9afc-e8bb03ecbb89" />
-)*  
+*<img width="1577" height="865" alt="image" src="https://github.com/user-attachments/assets/569a419b-7843-4dac-9afc-e8bb03ecbb89" />
+*  
 
 ---
 
